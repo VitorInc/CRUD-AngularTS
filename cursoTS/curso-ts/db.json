@@ -1,0 +1,31 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Notbook i73",
+      "preco": 5500
+    },
+    {
+      "id": 2,
+      "nome": "Notbook i5",
+      "preco": 4500
+    },
+    {
+      "id": 3,
+      "nome": "Teclado",
+      "preco": 100
+    },
+    {
+      "id": 4,
+      "nome": "mouse",
+      "preco": "70.00",
+      "desconto": 10
+    },
+    {
+      "id": 5,
+      "nome": "cabo usb",
+      "preco": "29.99",
+      "desconto": 10
+    }
+  ]
+}
